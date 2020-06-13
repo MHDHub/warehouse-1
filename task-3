@@ -9,7 +9,7 @@
 			outline: blue dotted;
 			margin-left: 30%;
 			margin-top: 2%;
-			text-align: justify;
+			text-align: center;
 			overflow-x: hidden;
   			overflow-y: scroll;}
 		.out {width: 500px;
